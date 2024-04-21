@@ -25,3 +25,25 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+--
+
+## starter
+
+prerequisites:
+
+- use vscode
+- basic git / github
+- read introductions on angular
+- read introduction RxJS
+
+##
+
+- install node
+- install npm
+- git fork this project
+- $ git clone (this project)
+- $ npm install
+- $ ng serve
+- install chrome dev tools
+- open chrome to http://localhost:4200
